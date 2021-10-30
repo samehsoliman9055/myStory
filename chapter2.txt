@@ -1,1 +1,3 @@
+<<<<<<< HEAD
 chapter 2 fff
+chapter 2 00000 ---
